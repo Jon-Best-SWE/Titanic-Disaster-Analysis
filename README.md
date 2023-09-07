@@ -19,4 +19,4 @@ pip install pandas numpy matplotlib seaborn
 git clone https://github.com/Jon-Best-SWE/Titanic-Disaster-Analysis.git
 cd Titanic-Disaster-Analysis
 python Jon_Best_Titanic_Disaster_Supervised_Learning_Code.py
-Jon_Best_Titanic_Disaster_Unsupervised_Learning_Code.py
+python Jon_Best_Titanic_Disaster_Unsupervised_Learning_Code.py
