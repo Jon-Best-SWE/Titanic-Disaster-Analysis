@@ -16,7 +16,7 @@ pip install pandas numpy matplotlib seaborn
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/Jon-Best-SWE/Titanic-Disaster-Analysis.git
 cd Titanic-Disaster-Analysis
 python main.py
 
