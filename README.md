@@ -10,14 +10,17 @@ This project involves the analysis of the Titanic disaster dataset using Python.
 
 ## Installation
 To run this project, you'll need to have Python installed. Additionally, you can install the required libraries using pip:
+
 ```bash
 pip install pandas numpy matplotlib seaborn
+```
 
 ## Usage
 1. Clone the repository:
 ```bash
 git clone https://github.com/Jon-Best-SWE/Titanic-Disaster-Analysis.git
 cd Titanic-Disaster-Analysis
+```
 
 2. Analyze the Data
 The Python scripts provided in this repository (`Jon_Best_Titanic_Disaster_Supervised_Learning_Code.py` and `Jon_Best_Titanic_Disaster_Unsupervised_Learning_Code.py`) contain code for analyzing the Titanic disaster dataset. They are not meant to be run directly from the command line but should be executed within a Python environment or Jupyter Notebook.
