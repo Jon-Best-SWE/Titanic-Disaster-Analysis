@@ -7,8 +7,6 @@ Created on Sun Jun 18 16:46:58 2023
 
 # Jon Best
 # 6/18/2023
-# CS379 - Machine Learning
-# Titanic Survivors - Unsupervised Learningc  
 # The purpose of this Python code is to use the KMeans clustering algorithm to predict the number of survivors after the Titanic disaster.
  
 #***************************************************************************************
